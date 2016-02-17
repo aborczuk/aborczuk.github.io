@@ -1,0 +1,35 @@
+# Site settings
+title: Cheeky Chat
+email: andre@cheekychat.co
+url: http://cheekychat.co/
+description: "Send hilarious Live GIF messages to bae and your best friends"
+youtubeId: YrRKrj3-kLU
+#baseurl: '/worldview'
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#FFFFFF'
+  primary-light: '#DC59EF'
+  links: '#9013FE'
+  button: '#AF0BAA'
+
+# Footer settings
+footer: Cheeky Chat
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/getcheekychat
+  - title: facebook
+    url: https://www.facebook.com/Cheeky-Chat-458733427662899/
+
+# Router
+home: "/"
+about: "/#about/"
+download: "/#download/"
+contact: "/#contact/"
+privacy: "/privacy/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
