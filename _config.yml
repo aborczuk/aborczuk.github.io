@@ -1,8 +1,8 @@
 # Site settings
-title: Cheeky Chat
-email: andre@cheekychat.co
-url: http://cheekychat.co/
-description: "Send hilarious Live GIF messages to bae and your best friends"
+title: Flash Squad
+email: andre@flashsquad.co
+url: http://flashsquad.co/
+description: "Snap a flash status, squad up, live the moment together"
 youtubeId: YrRKrj3-kLU
 #baseurl: '/worldview'
 
@@ -14,14 +14,14 @@ color:
   button: '#AF0BAA'
 
 # Footer settings
-footer: Cheeky Chat
+footer: Flash Squad
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/getcheekychat
+    url: https://twitter.com/getflashsquad
   - title: facebook
-    url: https://www.facebook.com/Cheeky-Chat-458733427662899/
+    url: https://www.facebook.com/Flash-Squad-1568768496781115/
 
 # Router
 home: "/"
