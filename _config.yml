@@ -1,7 +1,7 @@
 # Site settings
-title: Flash Squad
-email: andre@flashsquad.co
-url: http://flashsquad.co/
+title: PRTY CHAT
+email: andre@prtychat.com
+url: http://prtychat.com/
 description: "Snap a flash status, squad up, live the moment together"
 youtubeId: YrRKrj3-kLU
 #baseurl: '/worldview'
@@ -14,7 +14,7 @@ color:
   button: '#AF0BAA'
 
 # Footer settings
-footer: Flash Squad
+footer: PRTY CHAT
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
